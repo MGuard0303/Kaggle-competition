@@ -4,7 +4,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/Jupyter_Notebook-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/R-yellow">
-<img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-cyan">
+<img alt="Static Badge" src="https://img.shields.io/badge/MATLAB-orange">
 </span>
 
 + [Titanic](https://www.kaggle.com/competitions/titanic)
