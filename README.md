@@ -1,4 +1,4 @@
-<div alin="center">
+<div align="center">
 <h>Kaggle-competition</h>
 </br>
 <span>
