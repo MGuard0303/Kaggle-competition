@@ -1,5 +1,6 @@
 <div>
-<title>Kaggle-competition</title>
+<h>Kaggle-competition</h>
+</br>
 <span>
 <img alt="Static Badge" src="https://img.shields.io/badge/Contributions-every_day-blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-red">
