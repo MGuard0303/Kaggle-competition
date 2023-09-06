@@ -1,5 +1,5 @@
 <div align="center">
-<font size="140">Kaggle-competition</font>
+<h1 size="140">Kaggle-competition</h1>
 </br>
 <span>
 <img alt="Static Badge" src="https://img.shields.io/badge/Contributions-every_day-blue">
