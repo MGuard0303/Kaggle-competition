@@ -10,6 +10,10 @@
 </span>
 </div>
 
-+ [Titanic](https://www.kaggle.com/competitions/titanic)
-+ [House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
-+ [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
++ Titanic:
+- [Description](https://www.kaggle.com/competitions/titanic)
+- [Code](https://github.com/Ma-Yier/Kaggle-competition/tree/main/titanic)
++ House Prices:
+- [Description](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
++ Spaceship Titanic:
+- [Description](https://www.kaggle.com/competitions/spaceship-titanic)
