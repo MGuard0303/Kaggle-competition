@@ -11,9 +11,9 @@
 </div>
 
 + Titanic:
-- [Description](https://www.kaggle.com/competitions/titanic)
-- [Code](https://github.com/Ma-Yier/Kaggle-competition/tree/main/titanic)
+    - [Description](https://www.kaggle.com/competitions/titanic)
+    - [Code](https://github.com/Ma-Yier/Kaggle-competition/tree/main/titanic)
 + House Prices:
-- [Description](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+    - [Description](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 + Spaceship Titanic:
-- [Description](https://www.kaggle.com/competitions/spaceship-titanic)
+    - [Description](https://www.kaggle.com/competitions/spaceship-titanic)
